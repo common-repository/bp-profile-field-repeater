@@ -1,0 +1,63 @@
+# Copyright (C) 2019 WPGULP
+# This file is distributed under the same license as the WPGULP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPGULP\n"
+"Report-Msgid-Bugs-To: https://AhmadAwais.com/contact/\n"
+"POT-Creation-Date: 2020-05-19 12:27+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Bunty <bn.bhandari90@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: app/admin/class-bp-field-repeater-admin.php:71
+#: app/admin/class-bp-field-repeater-admin.php:79
+msgid "Is the field repeater?"
+msgstr ""
+
+#: app/admin/class-bp-field-repeater-admin.php:73
+msgid "Make this field as a repeater."
+msgstr ""
+
+#: app/admin/class-bp-field-repeater-admin.php:83
+msgid "No"
+msgstr ""
+
+#: app/admin/class-bp-field-repeater-admin.php:84
+msgid "Yes"
+msgstr ""
+
+#: app/admin/class-bp-field-repeater-admin.php:87
+msgid "Applicable only for Text Box & Number."
+msgstr ""
+
+#: app/admin/class-bp-field-repeater-admin.php:170
+msgid "Repeater"
+msgstr ""
+
+#: app/main/class-bp-field-repeater.php:126
+msgid "+ Add"
+msgstr ""
+
+#: app/main/class-bp-field-repeater.php:200
+msgid "- Remove"
+msgstr ""
+
+#: bp-profile-field-repeater.php:84
+#, php-format
+msgid ""
+"%1$s works with BuddyPress only. Please activate BuddyPress or de-activate "
+"%2$s."
+msgstr ""
